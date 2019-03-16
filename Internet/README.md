@@ -1,7 +1,7 @@
 # Tools / Guide for checking or protecting your privacy
 
 * [Eff panopticlick 3.0](https://panopticlick.eff.org/)
-* [Eff Surveillance self-defense)(https://ssd.eff.org/)
+* [Eff Surveillance self-defense](https://ssd.eff.org/)
 
 # Fight for Privacy related sites / org
 
