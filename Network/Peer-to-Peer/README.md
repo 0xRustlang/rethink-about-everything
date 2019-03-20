@@ -13,10 +13,13 @@ Today our online movements are tracked, logged, analyzed, and sold. We’re mani
 
 A centralized Internet makes us more vulnerable to hacking, censorship, tracking, and numerous other abuses. And because we have little say in how these systems we rely upon operate, we aren’t able to improve how they work for us. The centralized nature of today’s Internet makes us less able to adapt to change, and less capable of confronting the complex challenges that we face.
 
+![](https://github.com/ookangzheng/rethink-about-everything/raw/master/Network/Peer-to-Peer/p2p-vs-censorship.jpg)
  
 Today, most web traffic passes through corporate web servers, putting them in the middle of our interactions. But by replacing the function of corporate servers with our own computers we cut out the middlemen and take back control. Our voices can be heard again.
 
 User-run apps are more agile and responsive than their centralized counterparts since users can set the rules and change them as desired. Plus, when we are in control of our own data, we can use it in new ways.
+
+![](https://github.com/ookangzheng/rethink-about-everything/raw/master/Network/Peer-to-Peer/centrailized-network-vs-distributed-network.jpg)
 
 Imagine a rideshare app run by the riders and drivers without a monopoly in the middle dictating terms. Holo hosts would get paid for helping host a website where anyone can book a ride.
 Imagine apps that help emergency responders coordinate with one another in the aftermath of a fire or hurricane, without needing to have a connection all the way back to some Silicon Valley data center. Unlike today’s centralized applications, apps on Holo run just fine on a local network.
