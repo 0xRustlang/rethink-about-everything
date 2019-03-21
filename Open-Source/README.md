@@ -10,6 +10,10 @@
 2. [V2ex](https://www.v2ex.com/t/399171)
 3. [中文编程](https://www.v2ex.com/t/520112)
 
+# Hardware
+
+1. [Purism](https://puri.sm) Mobile, Laptop
+
 # License
 
 1. [MIT](https://en.wikipedia.org/wiki/MIT_License)
