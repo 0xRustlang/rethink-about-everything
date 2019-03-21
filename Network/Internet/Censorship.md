@@ -1,4 +1,6 @@
 # Censorship
+1. [How does Internet Censorhsip work](https://computer.howstuffworks.com/internet-censorship.htm)
+
 
 # Protocol
 
