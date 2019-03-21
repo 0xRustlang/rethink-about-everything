@@ -1,5 +1,8 @@
 # Tracking 
 
+# Hire someone help you delete from Internet
+1. [Delete Me](https://www.abine.com/deleteme/index.php)
+
 ## What tracker uses inside the site
 
 * [https://webbkoll.dataskydd.net/en](https://webbkoll.dataskydd.net/en)
