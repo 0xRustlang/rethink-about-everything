@@ -7,6 +7,7 @@
 
 * [Me and My Shadow](https://myshadow.org/)
 * [EFF](https://eff.org) 
+* [ScorePolitical Scoreboard](https://www.decidethefuture.org/#our-scoring-system)
 
 # Internet Copyright or something controversy
 
