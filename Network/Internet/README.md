@@ -7,3 +7,7 @@
 
 * [Me and My Shadow](https://myshadow.org/)
 * [EFF](https://eff.org) 
+
+# Internet Copyright or something controversy
+
+* [Article 13 EU - SaveYourInternet](https://saveyourinternet.eu/)
