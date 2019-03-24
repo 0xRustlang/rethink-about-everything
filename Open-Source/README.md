@@ -13,6 +13,7 @@
 # Hardware
 
 1. [Purism](https://puri.sm) Mobile, Laptop
+2. [Pine64](https://www.pine64.org/)
 
 # License
 
