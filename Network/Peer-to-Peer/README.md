@@ -16,6 +16,7 @@
 2. [Peer Tube](https://joinpeertube.org/en/) based on ActivityPub
 3. [Beakerbrowser](https://beakerbrowser.com) based on Dat
 4. [Patchwork](https://github.com/ssbc/patchwork) based on Scuttlebutt
+5. [Pixelfed](https://github.com/pixelfed/pixelfed) Federated Image Sharing based on ActivityPub
 
 ### Why P2P
 
