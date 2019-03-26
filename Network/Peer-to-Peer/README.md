@@ -1,7 +1,23 @@
 # Peer-to-Peer Network , aka P2P
 
 
-# Why P2P
+## Protocol
+
+1. [Matrix](https://matrix.org)
+2. [ActivityPub](https://activitypub.rocks/)
+3. [Dat](https://datproject.org)
+4. [IPFS](https://ipfs.io)
+6. [Scuttlebutt](https://www.scuttlebutt.nz)
+
+
+## Apps
+
+1. [Mastodon](https://joinmastodon.org/) based on ActivityPub
+2. [Peer Tube](https://joinpeertube.org/en/) based on ActivityPub
+3. [Beakerbrowser](https://beakerbrowser.com) based on Dat
+4. [Patchwork](https://github.com/ssbc/patchwork) based on Scuttlebutt
+
+### Why P2P
 
 The Internet was envisioned as an open platform to allow anyone to share information, access opportunities, and collaborate across geographical boundaries. But over the past twenty years, the web has concentrated power in the hands of a few giants.
 
@@ -25,7 +41,3 @@ Imagine a rideshare app run by the riders and drivers without a monopoly in the 
 Imagine apps that help emergency responders coordinate with one another in the aftermath of a fire or hurricane, without needing to have a connection all the way back to some Silicon Valley data center. Unlike today’s centralized applications, apps on Holo run just fine on a local network.
 Imagine a community of rural homeowners who generate, store, and share electricity using solar panels, windmills, small water turbines, and backup batteries. Holo fuel is custom-designed to handle exactly these sorts of micro-transactions.
 Holo includes a secure micropayment cryptocurrency engine which web app creators can use to pay you when you host their apps. With Holo you’ll be able to share the capacity of your computer just like you might rent out a spare room on Airbnb. Holo makes this world available to anyone with a computer and Internet connection, not just an elite class of miners and developers.
-
- 
-
-
