@@ -1,5 +1,8 @@
 # List of activist
 
+## Closed platform / Walled-garden
+
+* Wiki[中文](https://zh.wikipedia.org/zh-hant/%E5%B0%81%E9%96%89%E5%B9%B3%E8%87%BA)
 
 ## grass-roots movements / culture
 
