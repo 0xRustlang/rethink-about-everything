@@ -26,3 +26,8 @@
 1. Very strict to failed DNSSEC
 2. Not ECS friendly to CDN
 3. Qname will brake some sites (PDF)[chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://indico.dns-oarc.net/event/21/contributions/298/attachments/267/487/qname-min.pdf]
+
+
+## Firefox
+
+1. [Firefox configuration hardening](https://github.com/pyllyukko/user.js/)
