@@ -1,3 +1,0 @@
-## Fonts
-
-* https://prowebtype.com/
