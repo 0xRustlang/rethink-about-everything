@@ -4,6 +4,7 @@
 ## Freespeech / TOR / IRC
 
 1. [irc.resist.se](http://resist.se/)
+2. [Freenode.net -- Since 1998](http://freenode.net/)
 
 ## Burn mail / Temp mail
 
