@@ -6,6 +6,10 @@
 
 1. [996.icu](https://github.com/996icu/996.ICU) on [discord](https://github.com/996icu/996.ICU/issues/9677)
 
+## On the job field
+
+1. [996.icu Developers live MATTER](https://996.icu/#/zh_CN)
+2. [995 - A collection of balance working hours company list](https://github.com/formulahendry/955.WLB)
 
 # Tools
 
